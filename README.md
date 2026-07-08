@@ -11,7 +11,7 @@ A simple, client-side web app that lets you upload an image and convert it into 
 
 ## How to use
 
-1. Open [image-to-pdf.html](image-to-pdf.html) in your browser.
+1. Open [index.html](index.html) in your browser.
 2. Click the upload area or drag an image onto it.
 3. Preview the image and click "Convert to PDF".
 4. The browser will download the generated PDF file.
